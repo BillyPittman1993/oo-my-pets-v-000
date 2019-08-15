@@ -14,9 +14,3 @@ class Cat
   
 end 
 
-cat = Cat.new("Tom")
-puts cat.name 
-puts cat.mood 
-
-cat = Cat.mood("Happy Cat!")
-puts cat.mood
